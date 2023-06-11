@@ -1,1 +1,1 @@
-# stellaris-gen-ai
+# cognitive-marketing-cloud
